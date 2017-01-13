@@ -22,6 +22,14 @@ Done! Now you have full configured environment for React development.
 
 3) Done!
 
+##Bootstrap configuration
+Sass
+By default all of Bootstrap is imported.
+
+You can also import components explicitly. To start with a full list of modules copy **_bootstrap.scss** file into your assets as  bootstrap-custom.scss. Then comment out components you do not want from bootstrap-custom. In the application Sass file, replace @import 'bootstrap' with:
+
+@import 'bootstrap-custom';
+
 ##Included:
 **React**
 
