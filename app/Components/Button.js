@@ -1,5 +1,5 @@
 import React from 'react'
-import { Component, PropTypes } from 'react'
+import { Component } from 'react'
 
 export default class Button extends Component{
 
