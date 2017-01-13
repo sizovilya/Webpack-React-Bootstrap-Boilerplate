@@ -1,4 +1,4 @@
-Webpack React Boilerplate
+Webpack React Bootstrap Boilerplate
 ==========================
 
 ##Installing:
@@ -27,11 +27,17 @@ Done! Now you have full configured environment for React development.
 
 **React-Dom**
 
+**Bootstrap** (Bootstrap-SASS)
+
+**SASS** css preprocessor
+
 **Babel** and presets for transpilling from ES6/ES7 and JSX
 
 **Webpack** and plugins
 
 **Webpack dev server** for development
+
+and other less important development packages
 
 Also "Live Reload" included - webpack watch all your files and reload your browser on ctrl+s (on every file change)
 
